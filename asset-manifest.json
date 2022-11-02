@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/react-hw18/static/css/main.cf38376c.css",
+    "main.js": "/react-hw18/static/js/main.9dd48221.js",
+    "static/js/787.7fedb3a6.chunk.js": "/react-hw18/static/js/787.7fedb3a6.chunk.js",
+    "static/media/img3.png": "/react-hw18/static/media/img3.d100dd22bfcc6f15be43.png",
+    "static/media/Anakin.jpg": "/react-hw18/static/media/Anakin.4523ab188a85cd1197c2.jpg",
+    "static/media/taras.jpg": "/react-hw18/static/media/taras.ac39b2322dcab9c5b559.jpg",
+    "static/media/img8.jpg": "/react-hw18/static/media/img8.e7a4a58dd9dcb23ee754.jpg",
+    "static/media/img7.jpg": "/react-hw18/static/media/img7.bb9ecaf30c4c2dbd4fd6.jpg",
+    "static/media/img6.jpg": "/react-hw18/static/media/img6.a46e32239263b4e060e8.jpg",
+    "static/media/img5.jpg": "/react-hw18/static/media/img5.40a2240d6a67d9f372ad.jpg",
+    "static/media/img1.jpg": "/react-hw18/static/media/img1.3732816fb4ed981e7c21.jpg",
+    "static/media/Ray.jpg": "/react-hw18/static/media/Ray.03753b4f346e178c967d.jpg",
+    "static/media/img2.jpg": "/react-hw18/static/media/img2.4eafeddea997c16bf8b4.jpg",
+    "static/media/img4.jpg": "/react-hw18/static/media/img4.e3bf5c2dd1a1d89893d3.jpg",
+    "static/media/share.svg": "/react-hw18/static/media/share.42fa3583726554ee47ab21882bad7d9b.svg",
+    "static/media/woman.svg": "/react-hw18/static/media/woman.723b5b6f0881c6e7db6e826301f38f20.svg",
+    "static/media/comment.svg": "/react-hw18/static/media/comment.d67e997bc350e338e03b33480b0b609e.svg",
+    "static/media/like.svg": "/react-hw18/static/media/like.433fdf1cb3b1caf49fd4815f6fc020ba.svg",
+    "static/media/man.svg": "/react-hw18/static/media/man.2d79e1b6c27ad6fe01e7cae2cdfed14b.svg",
+    "index.html": "/react-hw18/index.html",
+    "static/media/check-mark.svg": "/react-hw18/static/media/check-mark.7e2af81ca60c6182964fe713d53db892.svg",
+    "static/media/repost.svg": "/react-hw18/static/media/repost.ab9b7e9c7cd2ace1425b435d0590c39a.svg",
+    "main.cf38376c.css.map": "/react-hw18/static/css/main.cf38376c.css.map",
+    "main.9dd48221.js.map": "/react-hw18/static/js/main.9dd48221.js.map",
+    "787.7fedb3a6.chunk.js.map": "/react-hw18/static/js/787.7fedb3a6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cf38376c.css",
+    "static/js/main.9dd48221.js"
+  ]
+}
