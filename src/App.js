@@ -10,15 +10,15 @@ function App() {
     <>
       <header className='header'>
           <Link to='/' className="navlink">Home</Link>
-          <Link to='/posts' className="navlink">Posts</Link>
-          <Link to='/gallery' className="navlink">Gallery</Link>
-          <Link to='/contacts' className="navlink">Contacts</Link>
+          <Link to='/react-hw18/posts' className="navlink">Posts</Link>
+          <Link to='/react-hw18/gallery' className="navlink">Gallery</Link>
+          <Link to='/react-hw18/contacts' className="navlink">Contacts</Link>
       </header>
         <Routes>
           <Route path='/' element={<HomePage />} />
-          <Route path='/posts' element={<Posts />} />
-          <Route path='/gallery' element={<Gallery />} />
-          <Route path='/contacts' element={<RenderContacts />} />
+          <Route path='/react-hw18/posts' element={<Posts />} />
+          <Route path='/react-hw18/gallery' element={<Gallery />} />
+          <Route path='/react-hw18/contacts' element={<RenderContacts />} />
         </Routes>
     </>
   );
