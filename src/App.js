@@ -15,7 +15,7 @@ function App() {
           <Link to='/contacts' className="navlink">Contacts</Link>
       </header>
         <Routes>
-          <Route path='/' exact element={<HomePage />} />
+          <Route path='/' element={<HomePage />} />
           <Route path='/posts' element={<Posts />} />
           <Route path='/gallery' element={<Gallery />} />
           <Route path='/contacts' element={<RenderContacts />} />
