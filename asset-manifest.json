@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react-hw18/static/css/main.cf38376c.css",
-    "main.js": "/react-hw18/static/js/main.f0687ae1.js",
+    "main.js": "/react-hw18/static/js/main.ae767db4.js",
     "static/js/787.7fedb3a6.chunk.js": "/react-hw18/static/js/787.7fedb3a6.chunk.js",
     "static/media/img3.png": "/react-hw18/static/media/img3.d100dd22bfcc6f15be43.png",
     "static/media/Anakin.jpg": "/react-hw18/static/media/Anakin.4523ab188a85cd1197c2.jpg",
@@ -23,11 +23,11 @@
     "static/media/check-mark.svg": "/react-hw18/static/media/check-mark.7e2af81ca60c6182964fe713d53db892.svg",
     "static/media/repost.svg": "/react-hw18/static/media/repost.ab9b7e9c7cd2ace1425b435d0590c39a.svg",
     "main.cf38376c.css.map": "/react-hw18/static/css/main.cf38376c.css.map",
-    "main.f0687ae1.js.map": "/react-hw18/static/js/main.f0687ae1.js.map",
+    "main.ae767db4.js.map": "/react-hw18/static/js/main.ae767db4.js.map",
     "787.7fedb3a6.chunk.js.map": "/react-hw18/static/js/787.7fedb3a6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cf38376c.css",
-    "static/js/main.f0687ae1.js"
+    "static/js/main.ae767db4.js"
   ]
 }
