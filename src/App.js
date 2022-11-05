@@ -3,7 +3,7 @@ import Posts from './components/Posts';
 import Gallery from './components/Gallery';
 import RenderContacts from './components/RenderContacts';
 import './App.css';
-import { Routes, Route, Link } from "react-router-dom";
+import { Routes, Route } from "react-router-dom";
 import Header from './components/Header';
 
 function App() {
