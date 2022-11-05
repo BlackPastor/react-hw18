@@ -3,19 +3,15 @@ import Posts from './components/Posts';
 import Gallery from './components/Gallery';
 import RenderContacts from './components/RenderContacts';
 import './App.css';
-import { Routes, Route, Link } from "react-router-dom"
+import { Routes, Route, Link } from "react-router-dom";
+import Header from './components/Header';
 
 function App() {
   return (
     <>
-      <header className='header'>
-          <Link to='/home' className="navlink">Home</Link>
-          <Link to='/posts' className="navlink">Posts</Link>
-          <Link to='/gallery' className="navlink">Gallery</Link>
-          <Link to='/contacts' className="navlink">Contacts</Link>
-      </header>
+      <Header />
         <Routes>
-          <Route path='/home' exact element={<HomePage />} />
+          <Route path='/' exact element={<HomePage />} />
           <Route path='/posts' element={<Posts />} />
           <Route path='/gallery' element={<Gallery />} />
           <Route path='/contacts' element={<RenderContacts />} />
